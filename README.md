@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 
 
+https://github-readme-codewars-stats.herokuapp.com/api/?username=[melcode1013]&badge&name_only
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melcode1013&label=Profile%20views&color=0e75b6&style=flat" alt="melcode1013" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melcode1013" alt="melcode1013" /></a> </p>
