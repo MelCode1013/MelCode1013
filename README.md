@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=[MelCode1013]&badge&name_only)
+![](https://www.codewars.com/users/MelCode1013/badges/large)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melcode1013&label=Profile%20views&color=0e75b6&style=flat" alt="melcode1013" /> </p>
 
