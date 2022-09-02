@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/dev_rupee" target="blank"><img src="https://img.shields.io/twitter/follow/dev_rupee?logo=twitter&style=for-the-badge" alt="dev_rupee" /></a> </p>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="melinna-bayona" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/melinna-bayona?trk=profile-badge">Melinna Bayona</a></div>
+
 - 👨‍💻 All of my projects are available at [https://www.melinnabayona.dev/](https://www.melinnabayona.dev/)
 
 - 📫 How to reach me **melinna.dev@gmail.com**
