@@ -32,8 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melcode1013&" alt="melcode1013" /></p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <!--
 **MelCode1013/MelCode1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
